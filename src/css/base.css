@@ -16,6 +16,13 @@ body {
     height: 100vh;
     position: relative;
     z-index: 1;
+    transition: margin-left 0.3s ease;
+}
+
+#map-container {
+    flex: 1;
+    position: relative;
+    transition: width 0.3s ease;
 }
 
 .logo {
