@@ -127,15 +127,15 @@
             ]            
         },
         "Misc": {
-            "Community Chests": [
-                {
-                    "id": 1,
-                    "title": "Community Chests",
-                    "description": "These chests are free for anyone to store items in. Take what you need; leave what you can..",
-                    "coordinates": [[3437, 2603]],
-                    "icon": "icons/gray_chest.png"
-                }
-            ],
+            // "Community Chests": [
+              //  {
+                //    "id": 1,
+               //     "title": "Community Chests",
+               //     "description": "These chests are free for anyone to store items in. Take what you need; leave what you can..",
+                //    "coordinates": [[3437, 2603]],
+               //     "icon": "icons/gray_chest.png"
+               // }
+           // ],
             "Chests": [
                 {
                     "id": 1,
