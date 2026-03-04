@@ -112,9 +112,11 @@ export class MapManager {
             // Load all route files
             const routeFiles = [
                 'entrance-to-sewers.json',
+                'meet-the-boss-1.json',
                 'pentagram.json',
                 'sewers-to-colony.json',
                 'invisible-maze.json'
+                // Add more route files here as needed
             ];
             
             // Load each route file
