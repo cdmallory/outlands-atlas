@@ -193,6 +193,27 @@
                     "description": "Special: Unknown. Progressive spawn to summon the boss from killing nearby golems.",
                     "coordinates": [1457, 3780],
                     "icon": "icons/boss.png"
+                },
+                {
+                    "id": "bosses",
+                    "title": "Ceaseless Hunger",
+                    "description": "Strong Caster, manage spawn",
+                    "coordinates": [3212, 2718],
+                    "icon": "icons/boss.png"
+                },
+                {
+                    "id": "bosses",
+                    "title": "Bonecrusher King",
+                    "description": "Tank and spank",
+                    "coordinates": [5104, 3944],
+                    "icon": "icons/boss.png"
+                },
+                {
+                    "id": "bosses",
+                    "title": "Witherbark",
+                    "description": "Spawns a Zorn, which handicaps casters and range.  Best to kill the Zorn first, then focus on Witherbark.",
+                    "coordinates": [1912, 2632],
+                    "icon": "icons/boss.png"
                 }
             ]           
          },
