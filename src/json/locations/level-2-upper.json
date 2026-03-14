@@ -88,13 +88,6 @@
             "Bosses": [
                 {
                     "id": "bosses",
-                    "title": "Tox",
-                    "description": "Special: Unknown.",
-                    "coordinates": [1426, 1248],
-                    "icon": "icons/boss.png"
-                },
-                {
-                    "id": "bosses",
                     "title": "Captain Reginald",
                     "description": "Special: Unknown.",
                     "coordinates": [1388, 4848],

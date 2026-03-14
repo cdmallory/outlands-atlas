@@ -367,6 +367,13 @@
                     "description": "Special: Summons undead enemies and cast spells. Kill the elementals to summon the boss.",
                     "coordinates": [1310, 2298],
                     "icon": "icons/boss.png"
+                },
+                {
+                    "id": "bosses",
+                    "title": "Tox",
+                    "description": "Special: Unknown.",
+                    "coordinates": [4062, 938],
+                    "icon": "icons/boss.png"
                 }
             ],
             "Revealers": [
