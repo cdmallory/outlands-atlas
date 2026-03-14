@@ -1,6 +1,6 @@
 {
     "stonegate": {
-        "Passage": {
+                "Passage": {
             "Portals": [
                 {
                     "id": 1,
@@ -51,8 +51,27 @@
                     "icon": "icons/waystar.png",
                     "description": "Summons a moongate to Colony for a short duration. Say 'Vas Rel Por' to use.",
                     "coordinates": [[622, 2925]]
+                },
+                                {
+                    "id": "bosses",
+                    "title": "Rotlord",
+                    "description": "Special: When dead, spawns a ton of undead mobs",
+                    "coordinates": [1985, 4497],
+                    "icon": "icons/boss.png"
                 }
+                
             ]
          }
-    }
+    },
+            "Entities": {
+                "Bosses": [
+                {
+                    "id": "bosses",
+                    "title": "Rotlord",
+                    "description": "Special: When dead, spawns a ton of undead mobs",
+                    "coordinates": [1985, 4497],
+                    "icon": "icons/boss.png"
+                }
+            ]
+        }
 }
