@@ -44,14 +44,7 @@
         ],
             "Teleport Tiles": [],
             "Waystar": [
-                {
-                    "id": 1,
-                    "title": "Waystar",
-                    "requirements": "1 Tri Time Gem",
-                    "icon": "icons/waystar.png",
-                    "description": "Summons a moongate to Colony for a short duration. Say 'Vas Rel Por' to use.",
-                    "coordinates": [[622, 2925]]
-                },
+               
                                 {
                     "id": "bosses",
                     "title": "Rotlord",
@@ -60,6 +53,45 @@
                     "icon": "icons/boss.png"
                 }
                 
+            ]
+                        },
+             "Quests": {
+            "Aether": [
+                {
+                    "id": "Quests",
+                    "title": "Aether",
+                    "description": "Temporal Analysis",
+                    "coordinates": [[2262, 3438]],
+                    "icon": "icons/Aether.png"
+                }
+            ],
+             "Shrines": [
+                {
+                    "id": "Quests",
+                    "title": "Valor Shrine",
+                    "description": "Shrine Of Valor",
+                    "coordinates": [[1569, 3002]],
+                    "icon": "icons/Valor.png"
+                }
+            ],
+                "Celestite": [
+                {
+                    "id": "Quests",
+                    "title": "Celestite",
+                    "description": "Celestite - There are 4 others in Anchors, i will work on those later",
+                    "coordinates": [[2591, 829], [2080,866], [1927, 834], [2068, 1485], [2417, 3786], [1267, 4245], [873, 2918]],
+                    "icon": "icons/Celestite.png"
+                }
+            ]
+                        ,
+                "VoidNode": [
+                {
+                    "id": "Quests",
+                    "title": "VoidNode",
+                    "description": "Quest: Darkscales",
+                    "coordinates": [[627, 2396], [1345, 2871], [1785, 4722]],
+                    "icon": "icons/VoidNode.png"
+                }
             ]
          }
     },

@@ -94,6 +94,13 @@
                     "description": "Special: ?",
                     "coordinates": [[2226, 9071]],
                     "icon": "icons/boss.png"
+                },
+                                {
+                    "id": "bosses",
+                    "title": "Roaming Destruction",
+                    "description": "Special: His name is Roaming, but he was found at this location, he is a lvl 7 boss, but found in lvl 8",
+                    "coordinates": [[3738, 2685]],
+                    "icon": "icons/boss.png"
                 }
             ]  
         },

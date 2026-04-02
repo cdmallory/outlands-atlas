@@ -81,16 +81,7 @@
                     "icon": "icons/portal.png"
                 }
             ],
-            "Rel Por Stones": [
-                {
-                    "id": "rel_por",
-                    "title": "Rel Por Stone",
-                    "requirements": "1 Precious Time Gem",
-                    "icon": "icons/rel-por.png",
-                    "description": "Teleports you to the nearby room.",
-                    "coordinates": [[3058, 2316], [3099, 2479]]
-                }
-            ],
+
             "Waystar": [
                 {
                     "id": 1,
@@ -109,6 +100,21 @@
                     "coordinates": [[2721, 998], [1225, 2547], [2414, 3262], [1890, 2998], [2274, 3334], [3098, 3337], [3097, 3250], [3097, 3149], [3012, 3701]],
                     "icon": "icons/lock.png"
                 }
+            ]
+        },
+         "Quests": {
+            
+             "Shrines": [
+
+          {
+                    "id": "Quests",
+                    "title": "Honesty Shrine",
+                    "description": "Shrine Of Honesty",
+                    "coordinates": [[1587, 1206], [1380, 479], [1823, 737], [2761, 994], [2210, 2559], [1689, 2556], [1827, 2972], [2122, 3665], [3148, 2995], [2821, 2984], [3107, 3686]],
+                    "icon": "icons/Honesty.png"
+                }
+         
+
             ]
         },
         "Entities": {

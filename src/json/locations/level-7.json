@@ -131,6 +131,20 @@
                     "coordinates": [4281, 1658],
                     "icon": "icons/boss.png"
                 },
+                                {
+                    "id": "bosses",
+                    "title": "Dreadmire the Damned",
+                    "description": "Special: Unknown",
+                    "coordinates": [2351, 1314],
+                    "icon": "icons/boss.png"
+                },
+                                                {
+                    "id": "bosses",
+                    "title": "Mooing Chaos",
+                    "description": "Special: Unknown",
+                    "coordinates": [2535, 1913],
+                    "icon": "icons/boss.png"
+                },
                 {
                     "id": "bosses",
                     "title": "The Barrier Warden",

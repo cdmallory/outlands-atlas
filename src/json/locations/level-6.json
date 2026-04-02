@@ -175,6 +175,20 @@
                     "coordinates": [640, 5210],
                     "icon": "icons/boss.png"
                 },
+                                {
+                    "id": "bosses",
+                    "title": "Weaver of Fate",
+                    "description": "Special: Unknown",
+                    "coordinates": [1749, 3312],
+                    "icon": "icons/boss.png"
+                },
+                                                {
+                    "id": "bosses",
+                    "title": "Forgotten One",
+                    "description": "Special: Unknown",
+                    "coordinates": [2905, 1082],
+                    "icon": "icons/boss.png"
+                },
                 {
                     "id": "bosses",
                     "title": "The One Who Wanders",

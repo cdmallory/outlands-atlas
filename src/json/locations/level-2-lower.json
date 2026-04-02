@@ -138,7 +138,7 @@
                     "requirements": "1 Tri Time Gem",
                     "icon": "icons/waystar.png",
                     "description": "Summons a moongate to Colony for a short duration",
-                    "coordinates": [[2257, 3725], [3768, 1570]]
+                    "coordinates": [[2257, 3725]]
                 }
             ],
             "Secret Passageways": [
@@ -168,6 +168,36 @@
                     "icon": "icons/lock.png"
                 }
             ]
+                        
+            },
+             "Quests": {
+            "Aether": [
+                {
+                    "id": "Quests",
+                    "title": "Aether",
+                    "description": "Temporal Analysis",
+                    "coordinates": [[4044, 1274]],
+                    "icon": "icons/Aether.png"
+                }
+            ],
+            "Shrines": [
+                {
+                    "id": "Quests",
+                    "title": "Valor Shrine",
+                    "description": "Shrine Of Valor",
+                    "coordinates": [[2293, 3717], [948, 2799]],
+                    "icon": "icons/Valor.png"
+                },
+                                {
+                    "id": "Quests",
+                    "title": "Spirituality Shrine",
+                    "description": "Shrine Of Spirituality",
+                    "coordinates": [[3475, 2646], [3246, 4435], [4082, 3848], [5108, 3455], [2449, 3786], [1813, 4036], [1477, 4949]],
+                    "icon": "icons/Spirituality.png"
+                }
+            ]
+         
+            
          },
         "Entities": {
             "Gem Vendor": [
@@ -257,17 +287,7 @@
                     "icon": "icons/crystal.png"
                 }
             ]
-        },
-        "Quest": {
-            "Shrine": [            
-                {
-                    "id": "robebowl",
-                    "title": "Robe/Bowl Spawn",
-                    "description": "Robe of Humility and Bowl of Sacrifice have a chance to spawn here. The timer is 3 hours from the moment it spawns. These items must be turned in on level 7,",
-                    "coordinates": [[945, 3093]],
-                    "icon": "icons/robe-bowl-spawn.png"
-                }
-            ]
         }
+        
     }
 }

@@ -59,6 +59,7 @@
                     "icon": "icons/portal.png"
                 }
             ],
+
             "Rel Por Stones": [
                 {
                     "id": "rel_por",
@@ -78,6 +79,28 @@
                 }
             ]
             },
+             "Quests": {
+            "Aether": [
+                {
+                    "id": "Quests",
+                    "title": "Aether",
+                    "description": "Temporal Analysis",
+                    "coordinates": [[3671, 1197], [5894, 3701]],
+                    "icon": "icons/Aether.png"
+                }
+            ],
+            "Shrines": [
+                {
+                    "id": "Quests",
+                    "title": "Valor Shrine",
+                    "description": "Shrine Of Valor",
+                    "coordinates": [[3822, 4328], [3312, 4151]],
+                    "icon": "icons/Valor.png"
+                }
+
+            ]
+         
+        },
         "Entities": {
             "Bosses": [
                 {

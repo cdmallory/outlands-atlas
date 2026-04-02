@@ -121,7 +121,7 @@
                     "requirements": "1 Precious Time Gem",
                     "icon": "icons/rel-por.png",
                     "description": "Teleports you to a nearby area. Say 'Vas Rel Por' to use.",
-                    "coordinates": [[2521, 766], [1979, 561], [696, 2472], [690, 2624], [3543, 1367], [3521, 1574], [3991, 844], [3854, 745], [1946, 3902], [1818, 3876]]
+                    "coordinates": [[2521, 766], [1979, 561], [696, 2472], [690, 2624], [1946, 3902], [1818, 3876]]
                 }
             ],            
             "Portals": [
@@ -265,6 +265,33 @@
                     "coordinates": [[928, 1480], [3185, 4299], [4490, 2677]]
                 }
             ]
+                        },
+             "Quests": {
+            "Aether": [
+                {
+                    "id": "Quests",
+                    "title": "Aether",
+                    "description": "Temporal Analysis",
+                    "coordinates": [[4500, 1074]],
+                    "icon": "icons/Aether.png"
+                }
+            ],
+             "Shrines": [
+                {
+                    "id": "Quests",
+                    "title": "Spirituality Shrine",
+                    "description": "Shrine Of Spirituality",
+                    "coordinates": [[2076, 1123]],
+                    "icon": "icons/Spirituality.png"
+                },
+                                {
+                    "id": "Quests",
+                    "title": "Honesty Shrine",
+                    "description": "Shrine Of Honesty",
+                    "coordinates": [[975, 6005]],
+                    "icon": "icons/Honesty.png"
+                }
+            ]
          },     
         "Entities": {
             "Gem Vendor": [
@@ -277,6 +304,13 @@
                 }
             ],
             "Bosses": [
+                {
+                    "id": "bosses",
+                    "title": "Captain of the Guard",
+                    "description": "Special: Unknown.",
+                    "coordinates": [2886, 3419],
+                    "icon": "icons/boss.png"
+                },
                 {
                     "id": "bosses",
                     "title": "A Living Arsenal",
@@ -480,7 +514,7 @@
                 }
             ]
         },
-        "Quest": {
+        "Quest Info": {
             "Quest NPCs": [
                 {
                     "id": 1,
@@ -575,16 +609,8 @@
                     "coordinates": [948, 5603],
                     "icon": "icons/exclamation-mark.png"
                 }
-            ],
-            "Shrine": [
-                {
-                    "id": "robebowl",
-                    "title": "Robe/Bowl Spawn",
-                    "description": "Robe of Humility and Bowl of Sacrifice have a chance to spawn here. The timer is 3 hours from the moment it spawns. These items must be turned in on level 7,",
-                    "coordinates": [[2893, 1460]],
-                    "icon": "icons/robe-bowl-spawn.png"
-                }
             ]
+            
         }
     }
 }

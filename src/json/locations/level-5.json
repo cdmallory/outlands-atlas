@@ -176,6 +176,27 @@
                     "icon": "icons/boss.png"
                 },
                 {
+                    "id": 1,
+                    "title": "High Priestess of the Void",
+                    "description": "Special: Unknown",
+                    "coordinates": [[1219, 250]],
+                    "icon": "icons/boss.png"
+                },
+                                {
+                    "id": 1,
+                    "title": "Cursed Prevalian Constable",
+                    "description": "Special: Unknown",
+                    "coordinates": [[3500, 2985]],
+                    "icon": "icons/boss.png"
+                },
+                                                {
+                    "id": 1,
+                    "title": "The Ravenous",
+                    "description": "Special: Unknown",
+                    "coordinates": [[3309, 4592]],
+                    "icon": "icons/boss.png"
+                },
+                {
                     "id": "bosses",
                     "title": "The Barrier Warden",
                     "description": "Special: Does a pontiff style bomb",
@@ -244,6 +265,16 @@
                     "coordinates": [[3507, 6025], [1792, 918], [2192, 2774], [3463, 3321], [4157, 3720], [3477, 4382], [2401, 4287], [2924, 4894], [3100, 584], [1209, 4444]],
                     "icon": "icons/robe-bowl-spawn.png"
                 }
+            ],
+                "Bone Of Zog": [            
+                {
+                    "id": 1,
+                    "title": "Bone Of Zog",
+                    "description": "Bone Of Zog Quest Item",
+                    "coordinates": [[1338, 2252], [2005, 817], [2804, 2895], [4009, 2801], [2656, 4288], [2776, 1759], [2314, 1874], [2529, 1183], [3287, 732]],
+                    "icon": "icons/ZogBone.png"
+                }
+
             ]
         },
         "Misc": {
