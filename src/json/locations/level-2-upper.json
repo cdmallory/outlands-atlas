@@ -120,7 +120,7 @@
                     "id": 1,
                     "title": "Apostate Rangers",
                     "description": "Reveals in a large radius. Shoots a volley of heavy damage arrows.",
-                    "coordinates": [[1270, 4140], [1496, 4148], [1470, 4768], [1472, 4980], [1104, 4986], [1120, 4774], [718, 882]],
+                    "coordinates": [[1270, 4140], [1496, 4148], [1470, 4768], [1472, 4980], [1104, 4986], [1120, 4774], [718, 882], [1741, 1710], [1574, 1850], [1305, 1939], [1560, 2327], [1363, 3642]],
                     "icon": "icons/eye.png"
                 }
             ]  

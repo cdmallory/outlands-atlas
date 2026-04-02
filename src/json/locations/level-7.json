@@ -127,7 +127,7 @@
                 {
                     "id": "bosses",
                     "title": "The Sovereign",
-                    "description": "Special: Heavy single target burst",
+                    "description": "Special: Huge disease AOE, 12 tiles",
                     "coordinates": [4281, 1658],
                     "icon": "icons/boss.png"
                 },
