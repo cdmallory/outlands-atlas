@@ -211,7 +211,7 @@
                     "id": 1,
                     "title": "Pilgrim Spawn",
                     "description": "Potenial spawn location for the Pilgrim",
-                    "coordinates": [[3089, 666], [3231, 1601], [2257, 1041]],
+                    "coordinates": [[3089, 666], [3231, 1601], [2257, 1041], [2791, 3036], [2045, 163]],
                     "icon": "icons/pilgrim.png"
                 }
             ],
