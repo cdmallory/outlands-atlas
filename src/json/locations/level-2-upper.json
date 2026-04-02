@@ -91,7 +91,7 @@
                     "id": "Quests",
                     "title": "Spirituality Shrine",
                     "description": "Shrine Of Spirituality",
-                    "coordinates": [[709, 2367], [1441, 1602], [1588, 4992]],
+                    "coordinates": [[709, 2367], [1441, 1602], [1588, 4992],[349, 2665]],
                     "icon": "icons/Spirituality.png"
                 }
             ]
