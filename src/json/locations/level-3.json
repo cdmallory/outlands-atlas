@@ -292,6 +292,16 @@
                     "icon": "icons/Honesty.png"
                 }
             ]
+            ,
+            "Temporal Codex Pages": [
+                {
+                    "id": "Quests",
+                    "title": "Temporal Codex Page",
+                    "description": "Pages Of The Temporal Codex.",
+                    "coordinates": [[4874, 1524], [871, 6019]],
+                    "icon": "icons/TemporalCodex.png"
+                }
+            ]
          },     
         "Entities": {
             "Gem Vendor": [

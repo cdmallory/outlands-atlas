@@ -94,6 +94,15 @@
                     "coordinates": [[709, 2367], [1441, 1602], [1588, 4992],[349, 2665]],
                     "icon": "icons/Spirituality.png"
                 }
+            ],
+            "Temporal Codex Pages": [
+                {
+                    "id": "Quests",
+                    "title": "Temporal Codex Page",
+                    "description": "Pages Of The Temporal Codex.",
+                    "coordinates": [[1114, 5731]],
+                    "icon": "icons/TemporalCodex.png"
+                }
             ]
             
          },

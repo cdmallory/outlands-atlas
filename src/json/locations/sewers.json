@@ -116,6 +116,16 @@
          
 
             ]
+            ,
+            "Temporal Codex Pages": [
+                {
+                    "id": "Quests",
+                    "title": "Temporal Codex Page",
+                    "description": "Pages Of The Temporal Codex.",
+                    "coordinates": [[3169, 3250]],
+                    "icon": "icons/TemporalCodex.png"
+                }
+            ]
         },
         "Entities": {
             "NPCs": [

@@ -81,6 +81,16 @@
                     "icon": "icons/exclamation-mark.png"
                 }
             ]
+            ,
+            "Temporal Codex Pages": [
+                {
+                    "id": "Quests",
+                    "title": "Temporal Codex Page",
+                    "description": "Pages Of The Temporal Codex.",
+                    "coordinates": [[1554, 1879]],
+                    "icon": "icons/TemporalCodex.png"
+                }
+            ]
         },
         "Misc": {
             "Traps": [

@@ -68,6 +68,7 @@ const AVAILABLE_ICONS = {
     CELESTITE: { path: "icons/Celestite.png", scale: 350},
     VOIDNODE: { path: "icons/VoidNode.png", scale: 350},
     ZOGBONE: { path: "icons/ZogBone.png", scale: 350},
+    TEMPORALCODEX: { path: "icons/TemporalCodex.png", scale: 350},
     // Time runes
     RUNE_KNOCK: { path: "icons/runes/timerune-knock.png", scale: 100 },
     RUNE_MEND: { path: "icons/runes/timerune-mendtime.png", scale: 100 },

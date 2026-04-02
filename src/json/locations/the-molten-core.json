@@ -50,6 +50,16 @@
                     "icon": "icons/robe-bowl-spawn.png"
                 }
             ]
+            ,
+            "Temporal Codex Pages": [
+                {
+                    "id": "Quests",
+                    "title": "Temporal Codex Page",
+                    "description": "Pages Of The Temporal Codex.",
+                    "coordinates": [[1309, 636]],
+                    "icon": "icons/TemporalCodex.png"
+                }
+            ]
         },
         "Misc": {
             "Crystal Pedestals": [

@@ -276,6 +276,16 @@
                 }
 
             ]
+            ,
+            "Temporal Codex Pages": [
+                {
+                    "id": "Quests",
+                    "title": "Temporal Codex Page",
+                    "description": "Pages Of The Temporal Codex.",
+                    "coordinates": [[3604, 1852]],
+                    "icon": "icons/TemporalCodex.png"
+                }
+            ]
         },
         "Misc": {
             "Pilgrim Spawns": [
