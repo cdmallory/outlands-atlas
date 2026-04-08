@@ -1,21 +1,37 @@
 import { GeneralContent, GeneralItemData, CreateIconContainer } from '../types/InfoMenuTypes.js';
 import { createCard, createGrid, createSection, CardData } from '../utils/uiHelpers.js';
 
+interface ScavengerItemData extends GeneralItemData {
+    icon?: string[];
+    scale?: number;
+}
+
 export function createScavengersContent(data: GeneralContent, createIconContainer: CreateIconContainer): string {
-    const createScavengerCard = (item: GeneralItemData): CardData => {
+    const createScavengerCard = (item: ScavengerItemData): CardData => {
+        const customIcons = item.icon ? `
+            <div style="display: flex; justify-content: center; align-items: center; width: 100%; padding: 10px;">
+                <div style="width: 640px; height: 640px; display: flex; justify-content: center; align-items: center;">
+                    <img src="${item.icon[0]}" style="width: 100%; height: 100%; object-fit: contain;">
+                </div>
+            </div>
+        ` : undefined;
+
         return {
             title: item.name,
             subtitle: '',
             description: item.description,
-            //icon: `/icons/ScavFood.png`,}`,
             location: `Location: ${item.location}`,
-            customIcons: undefined
+            customIcons: customIcons
         };
     };
 
     return Object.entries(data).map(([category, items]) => {
-        const cards = items.map(item => createCard(createScavengerCard(item), createIconContainer));
-        const grid = createGrid(cards);
+        const cards = items.map(item => createCard(createScavengerCard(item as ScavengerItemData), createIconContainer));
+        const grid = `
+            <div class="scavengers-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(720px, 1fr)); gap: 12px;">
+                ${cards.join('')}
+            </div>
+        `;
         const section = createSection(category, grid);
 
         return `
