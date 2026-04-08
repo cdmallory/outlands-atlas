@@ -185,7 +185,7 @@
                     "id": "Quests",
                     "title": "Valor Shrine",
                     "description": "Shrine Of Valor",
-                    "coordinates": [[2293, 3717], [948, 2799]],
+                    "coordinates": [[2293, 3717], [948, 2799],[6137,1440]],
                     "icon": "icons/Valor.png"
                 },
                                 {
@@ -194,6 +194,15 @@
                     "description": "Shrine Of Spirituality",
                     "coordinates": [[3475, 2646], [3246, 4435], [4082, 3848], [5108, 3455], [2449, 3786], [1813, 4036], [1477, 4949]],
                     "icon": "icons/Spirituality.png"
+                }
+            ],
+                "Quest Mobs": [
+                {
+                    "id": "Quests",
+                    "title": "Dread Spider",
+                    "description": "Frontal Poison Spray",
+                    "coordinates": [[3472, 3704],[4264, 3680]],
+                    "icon": "icons/DreadSpider.png"
                 }
             ]
          

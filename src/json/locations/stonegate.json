@@ -70,8 +70,15 @@
                     "id": "Quests",
                     "title": "Valor Shrine",
                     "description": "Shrine Of Valor",
-                    "coordinates": [[1569, 3002]],
+                    "coordinates": [[1569, 3002],[1993,4599]],
                     "icon": "icons/Valor.png"
+                },
+                                {
+                    "id": "Quests",
+                    "title": "Spirituality Shrine",
+                    "description": "Shrine Of Spirituality",
+                    "coordinates": [[1587,1448]],
+                    "icon": "icons/Spirituality.png"
                 }
             ],
                 "Celestite": [

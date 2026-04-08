@@ -93,6 +93,13 @@
                     "description": "Shrine Of Spirituality",
                     "coordinates": [[709, 2367], [1441, 1602], [1588, 4992],[349, 2665]],
                     "icon": "icons/Spirituality.png"
+                },
+                                {
+                    "id": "Quests",
+                    "title": "Valor Shrine",
+                    "description": "Shrine Of Valor",
+                    "coordinates": [1026,1653],
+                    "icon": "icons/Valor.png"
                 }
             ],
             "Temporal Codex Pages": [

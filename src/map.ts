@@ -37,7 +37,7 @@ export class MapManager {
     private markersLayer: L.LayerGroup | null = null;
     private routesLayer: L.LayerGroup | null = null;
     private currentLevel: string = "Level 1";
-    private hiddenCategories: Set<string> = new Set();
+    private hiddenCategories = new Set(["Shrines"]);
     private mapLayers: { [key: string]: { layer: L.LayerGroup; bounds: L.LatLngBoundsExpression } } = {};
     private isLoadingMap: boolean = false;
     private tileService: TileService;
@@ -46,6 +46,7 @@ export class MapManager {
     private runeAssignmentsMenu: RuneAssignmentsMenu;
     private routes: RoutesData = {};
     private locationsData: LocationsData = {};
+ 
 
     constructor() {
         this.tileService = new TileService();

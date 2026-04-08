@@ -69,6 +69,10 @@ const AVAILABLE_ICONS = {
     VOIDNODE: { path: "icons/VoidNode.png", scale: 350},
     ZOGBONE: { path: "icons/ZogBone.png", scale: 350},
     TEMPORALCODEX: { path: "icons/TemporalCodex.png", scale: 350},
+     // UPDATED BOSS ICONS
+
+    // UPDATED MOB ICONS
+    DREADSPIDER: { path: "icons/DreadSpider.png", scale: 350},
     // Time runes
     RUNE_KNOCK: { path: "icons/runes/timerune-knock.png", scale: 100 },
     RUNE_MEND: { path: "icons/runes/timerune-mendtime.png", scale: 100 },

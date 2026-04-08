@@ -281,7 +281,7 @@
                     "id": "Quests",
                     "title": "Spirituality Shrine",
                     "description": "Shrine Of Spirituality",
-                    "coordinates": [[2076, 1123]],
+                    "coordinates": [[2076, 1123], [3995, 2406]],
                     "icon": "icons/Spirituality.png"
                 },
                                 {
@@ -298,7 +298,7 @@
                     "id": "Quests",
                     "title": "Temporal Codex Page",
                     "description": "Pages Of The Temporal Codex.",
-                    "coordinates": [[4874, 1524], [871, 6019]],
+                    "coordinates": [[3997,858], [871, 6019]],
                     "icon": "icons/TemporalCodex.png"
                 }
             ]
