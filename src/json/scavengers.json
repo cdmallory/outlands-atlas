@@ -1,0 +1,14 @@
+{
+  "Scavengers": [
+    {
+      "name": "Example Scavenger",
+      "location": "Example Location",
+      "description": [
+        "Add your scavenger information here."
+      ],
+      "icon": [
+        "/icons/ScavFood.png"
+      ]
+    }
+  ]
+}
