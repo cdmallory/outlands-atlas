@@ -6,6 +6,7 @@ import { createRelicsContent } from '../content/RelicsContent.js';
 import { createTabletsContent } from '../content/TabletsContent.js';
 import { createEncountersContent } from '../content/EncountersContent.js';
 import { createGeneralContent } from '../content/GeneralContent.js';
+import { createScavengersContent } from '../content/ScavengersContent.js';
 import { createLootContent } from '../content/LootContent.js';
 import { createQuestsContent } from '../content/QuestsContent.js';
 import { createScriptsContent } from '../content/ScriptsContent.js';
@@ -17,6 +18,7 @@ export const contentCreators: ContentCreators = {
     'tablets': (data: TabletsContent, createIconContainer) => createTabletsContent(data, createIconContainer),
     'encounters': (data: EncountersContent, createIconContainer) => createEncountersContent(data, createIconContainer),
     'general': (data: GeneralContent, createIconContainer) => createGeneralContent(data, createIconContainer),
+    'scavengers': (data: GeneralContent, createIconContainer) => createScavengersContent(data, createIconContainer),
     'loot': (data: LootContent, createIconContainer) => createLootContent(data, createIconContainer),
     'quests': (data: QuestsContent, createIconContainer) => createQuestsContent(data, createIconContainer),
     'scripts': (data: ScriptsContent, createIconContainer) => createScriptsContent(data, createIconContainer),

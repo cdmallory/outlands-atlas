@@ -72,6 +72,8 @@ const AVAILABLE_ICONS = {
      // UPDATED BOSS ICONS
 
     // UPDATED MOB ICONS
+    // RANDOM
+    SCAVFOOD: { path: "icons/ScavFood.png", scale: 350},
     DREADSPIDER: { path: "icons/DreadSpider.png", scale: 350},
     // Time runes
     RUNE_KNOCK: { path: "icons/runes/timerune-knock.png", scale: 100 },
