@@ -1,0 +1,110 @@
+{
+  "Cursed Prevalia": {
+    "Monsters": [
+      {
+        "name": "Lesser Demon",
+        "description": [
+          "A lower-class demon often found patrolling cursed areas.",
+          "Weak to blessed weapons but dangerous in groups."
+        ]
+      },
+      {
+        "name": "Hellhound",
+        "description": [
+          "A demonic canine creature with a fiery temperament.",
+          "Guards valuable loot in cursed dungeons."
+        ]
+      }
+    ],
+    "Bosses": [
+      {
+        "name": "Demon Lord",
+        "description": [
+          "A powerful demonic entity ruling over Cursed Prevalia.",
+          "Extremely dangerous - requires a well-prepared party to defeat."
+        ]
+      }
+    ]
+  },
+  "Level 6": {
+    "Monsters": [
+      {
+        "name": "Skeletal Knight",
+        "description": [
+          "An animated skeleton wearing ancient armor.",
+          "Resistant to physical attacks but weak to magic."
+        ]
+      },
+      {
+        "name": "Zombie",
+        "description": [
+          "Reanimated corpse moving with shambling gait.",
+          "Slow but persistent enemies found in dungeons."
+        ]
+      }
+    ],
+    "Bosses": [
+      {
+        "name": "Undead King",
+        "description": [
+          "An ancient necromancer who rose from the dead.",
+          "Commands legions of undead creatures."
+        ]
+      }
+    ]
+  },
+  "Level 7": {
+    "Monsters": [
+      {
+        "name": "Young Drake",
+        "description": [
+          "A juvenile dragon still learning to hunt.",
+          "Dangerous with flame breath and sharp claws."
+        ]
+      },
+      {
+        "name": "Twisted Horror",
+        "description": [
+          "A creature warped by dark magic beyond recognition.",
+          "Unpredictable and highly aggressive."
+        ]
+      }
+    ],
+    "Bosses": [
+      {
+        "name": "Ancient Dragon",
+        "description": [
+          "A massive dragon of incredible age and power.",
+          "One of the most formidable foes in the realm."
+        ]
+      }
+    ]
+  },
+  "Level 8": {
+    "Monsters": [
+      {
+        "name": "Shadow Wraith",
+        "description": [
+          "A spirit of pure darkness given form.",
+          "Immune to physical damage, requires special weapons."
+        ]
+      },
+      {
+        "name": "Abyssal Spawn",
+        "description": [
+          "A creature pulled from the depths of the abyss.",
+          "Emanates an aura of pure malevolence."
+        ]
+      }
+    ],
+    "Bosses": [
+      {
+        "name": "Abyssal Guardian",
+        "description": [
+          "A powerful entity guarding the deepest dungeons.",
+          "The ultimate test of strength and courage."
+        ]
+      }
+    ]
+  }
+}

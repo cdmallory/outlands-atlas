@@ -75,6 +75,7 @@ const AVAILABLE_ICONS = {
     // RANDOM
     SCAVFOOD: { path: "icons/ScavFood.png", scale: 350},
     DREADSPIDER: { path: "icons/DreadSpider.png", scale: 350},
+    PLUSHIE: { path: "icons/Plushie.png", scale: 350},
     // Time runes
     RUNE_KNOCK: { path: "icons/runes/timerune-knock.png", scale: 100 },
     RUNE_MEND: { path: "icons/runes/timerune-mendtime.png", scale: 100 },

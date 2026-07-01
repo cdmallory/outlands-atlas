@@ -1,0 +1,350 @@
+{
+  "Cursed Prevalia": {
+    "Monsters": [
+      {
+        "name": "Cursed Prevalian",
+        "description": [
+          "Phases on top of their target, applies a disease and chill",
+          "Simple caster"
+        ],
+        "tips": [
+          "Time the phase",
+          "Do not let him leap to the group",
+          "Mid disease (x3 stacks of 60)"
+        ]
+      },
+      {
+        "name": "Twisted Prevalian",
+        "description": [
+          "Applies a strong disease if in close range",
+          "Disarms and Bleeds"
+        ],
+        "tips": [
+          "Mend if needed",
+          "Use cleansing brew"
+                 ]
+      },
+            {
+        "name": "Hungry Prevalian",
+        "description": [
+          "Leaps on it's target, applies a bleed and hinders"
+                  ],
+        "tips": [
+          "x",
+          "x"
+                 ]
+      },
+                  {
+        "name": "Warped Prevalian",
+        "description": [
+          "Warps onto its aggresors if they're atacking in range instead of close combat",
+          "Warps if you run",
+          "Applies a disease which stacks quickly",
+          "Applies grievous wound"
+        ],
+        "tips": [
+          "Do not run",
+          "Don't engage at range, let it get closer or ignore"
+                 ]
+      },
+            {
+        "name": "Time Lurker",
+        "description": [
+          "Simple Caster",
+          "Hinders if you run",
+          "AOE Backstab if close range",
+          "Reveals"
+        ],
+        "tips": [
+          "x",
+          "x"
+                 ]
+      },
+            {
+        "name": "Lesser Balron",
+        "description": [
+          "Flamestrikes when in meleee",
+          "Applys grievous wound, deflects, reflects"
+        ],
+        "tips": [
+          "Do not use an arcane staff on this mob",
+          "Swords, Traps, and other melee prefered"
+                 ]
+      },
+                  {
+        "name": "Timeless Curse",
+        "description": [
+          "Strong Caster",
+          "Mana-Drain Aura",
+          "Applies disease on melee"
+        ],
+        "tips": [
+          "x"
+                 ]
+      },
+                        {
+        "name": "Watchman of the Void",
+        "description": [
+          "Repeater ability that hinders",
+          "Stealths and reveals",
+          "Alerts surrounding monsters"
+        ],
+        "tips": [
+          "Aggro range is 14-16 tiles, pull close"
+                 ]
+      },
+                        {
+        "name": "Solider of the Void",
+        "description": [
+          "Deflects and Reflects",
+          "Special: AOE close range ability"
+        ],
+        "tips": [
+          "x"
+                 ]
+      },                  {
+        "name": "Sigil of the Void",
+        "description": [
+          "Places a trap on top of its target that detonates briefly after",
+          "Applies stacking grievious wounds and pierce"
+        ],
+        "tips": [
+          "x"
+                 ]
+      },
+                        {
+        "name": "Assassin of the Void",
+        "description": [
+          "Stealths",
+          "Applies Poison",
+          "Buffs himself with frenzy"
+        ],
+        "tips": [
+          "x"
+                 ]
+      }
+
+    ],
+    "Bosses": [
+      {
+        "name": "High Priestess of the Void",
+        "description": [
+          "Applies high-tier Grievous Wounds",
+          "x"
+        ],
+        "tips": [
+          "Negate Grievous Wound: Mend Rune, Void Armor, Omni Pots, Refresh, Sapling ",
+          "Archers should stay at 14 tiles and watch overhead for ability",
+          "6-8 second DPS window after ability, then repeat"
+        ]
+      },
+      {
+        "name": "Constable",
+        "description": [
+          "x",
+          "x"
+        ],
+        "tips": [
+          "x",
+          "x",
+          "x"
+        ]
+      },
+           {
+        "name": "The Ravenous",
+        "description": [
+          "x",
+          "x"
+        ],
+        "tips": [
+          "x",
+          "x",
+          "x"
+        ]
+      },
+      {
+        "name": "Abyssal Executioner",
+        "description": [
+          "x",
+          "x"
+        ],
+        "tips": [
+          "x",
+          "x",
+          "x"
+        ]
+      }
+  
+    ]
+  },
+  "Level 6": {
+    "Monsters": [
+      {
+        "name": "Chaotic Mass",
+        "description": [
+          " A volley attack thats single target dps. Retaliates when dpsed from range applying grievious wounds,poison and **"
+   
+        ],
+        "tips": [
+          "x"
+        ]
+      },
+      {
+        "name": "Chaos Spawn",
+        "description": [
+          " Single target dps that hinders,low CD on its ability paired up with a lonog lasting hinder",
+          "Changes agro onto whoever is running"
+        ],
+        "tips": [
+          "DO NOT RUN"
+        ]
+      },
+      {
+        "name": "Chaos Dweller",
+        "description": [
+          "Deflects,its special is similar to soldiers of the void(plus charging its dps"
+        ],
+        "tips": [
+          "x"
+        ]
+      },
+      {
+        "name": "Spellweaver",
+        "description": [
+          "Phases applying a disease and chill effect",
+          "on proc ability on cast similar to Pontifs"
+        ],
+        "tips": [
+          "x"
+        ]
+      },
+      {
+        "name": "Feaster",
+        "description": [
+          "Aoes all its targets withing LOS when enganged",
+          "debufs with enervated and disorient"
+        ],
+        "tips": [
+          "x"
+        ]
+      },
+      {
+        "name": "Bedlam Gazer",
+        "description": [
+          "Mid magic caster",
+          "retaliates with a special when hit regardless of distance",
+          "special hinders and has wide area"
+        ],
+        "tips": [
+          "x"
+        ]
+      },
+      {
+        "name": "Balron",
+        "description": [
+          "Same as lessers though they apply more % of debuf",
+          "retaliate for more dps",
+          "deflect more often and have higher stats"
+        ],
+        "tips": [
+          "x"
+        ]
+      }
+    ],
+    "Bosses": [
+      {
+        "name": "Damsel",
+        "description": [
+          "x"
+        ],
+        "tips": [
+          "x"
+        ]
+      }
+    ]
+  },
+  "Level 7": {
+    "Monsters": [
+      {
+        "name": "Young Drake",
+        "description": [
+          "A juvenile dragon still learning to hunt.",
+          "Dangerous with flame breath and sharp claws."
+        ],
+        "tips": [
+          "Avoid standing in front of its mouth",
+          "Use lightning-based spells to interrupt breath attacks",
+          "Attack from the sides or behind when possible"
+        ]
+      },
+      {
+        "name": "Twisted Horror",
+        "description": [
+          "A creature warped by dark magic beyond recognition.",
+          "Unpredictable and highly aggressive."
+        ],
+        "tips": [
+          "Its movements are chaotic and hard to predict",
+          "Pure energy attacks work best against it",
+          "Maintain distance and use ranged attacks"
+        ]
+      }
+    ],
+    "Bosses": [
+      {
+        "name": "Ancient Dragon",
+        "description": [
+          "A massive dragon of incredible age and power.",
+          "One of the most formidable foes in the realm."
+        ],
+        "tips": [
+          "This is an endgame boss - prepare thoroughly",
+          "Learn its attack patterns before committing",
+          "Target the wings to prevent it from flying away"
+        ]
+      }
+    ]
+  },
+  "Level 8": {
+    "Monsters": [
+      {
+        "name": "Shadow Wraith",
+        "description": [
+          "A spirit of pure darkness given form.",
+          "Immune to physical damage, requires special weapons."
+        ],
+        "tips": [
+          "Regular weapons are useless - use enchanted arms",
+          "Holy light will weaken and slow it down",
+          "Can only be hurt with blessed or magical weapons"
+        ]
+      },
+      {
+        "name": "Abyssal Spawn",
+        "description": [
+          "A creature pulled from the depths of the abyss.",
+          "Emanates an aura of pure malevolence."
+        ],
+        "tips": [
+          "Its aura causes continuous damage - use wards",
+          "Protection spells are essential before engaging",
+          "It spawns adds when it takes severe damage"
+        ]
+      }
+    ],
+    "Bosses": [
+      {
+        "name": "Abyssal Guardian",
+        "description": [
+          "A powerful entity guarding the deepest dungeons.",
+          "The ultimate test of strength and courage."
+        ],
+        "tips": [
+          "This is the ultimate challenge - prepare your best gear",
+          "Study its attack patterns extensively",
+          "Coordinate with your party and use all available resources"
+        ]
+      }
+    ]
+  }
+}

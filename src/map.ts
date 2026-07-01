@@ -4,6 +4,7 @@ import { TileService } from './services/tileService.js';
 import { InfoMenu } from './components/InfoMenu.js';
 import { LanguageInfoMenu } from './components/LanguageInfoMenu.js';
 import { RuneAssignmentsMenu } from './components/RuneAssignmentsMenu.js';
+import { BestiaryMenu } from './components/BestiaryMenu.js';
 import { SpoilerWarning } from './components/SpoilerWarning.js';
 
 interface TileConfig {
@@ -44,6 +45,7 @@ export class MapManager {
     private infoMenu: InfoMenu;
     private languageInfoMenu: LanguageInfoMenu;
     private runeAssignmentsMenu: RuneAssignmentsMenu;
+    private bestiaryMenu: BestiaryMenu;
     private routes: RoutesData = {};
     private locationsData: LocationsData = {};
  
@@ -53,6 +55,7 @@ export class MapManager {
         this.infoMenu = new InfoMenu();
         this.languageInfoMenu = new LanguageInfoMenu();
         this.runeAssignmentsMenu = new RuneAssignmentsMenu();
+        this.bestiaryMenu = new BestiaryMenu();
         this.loadRoutes();
     }
 
@@ -665,6 +668,7 @@ export class MapManager {
         this.infoMenu.mount(mapContainerElement);
         this.languageInfoMenu.mount(mapContainerElement);
         this.runeAssignmentsMenu.mount(mapContainerElement);
+        this.bestiaryMenu.mount(mapContainerElement);
 
         onProgress?.(40, 'Loading routes...');
         await this.loadRoutes();
